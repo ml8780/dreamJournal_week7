@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    background-color: rgb(18, 18, 62);
+    color: rgb(252, 244, 98);
+    font-family: fantasy;
+}
+.inputBox{
+    margin: 50px auto;
+}
+
+button{
+    margin: 50px auto;
+}
